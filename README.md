@@ -19,8 +19,11 @@
 - [Quick Start](#quick-start)
 - [Time Series Outlier Detection Workflow](#time-series-outlier-detection-workflow)
 - [Anomaly Detection for High Frequency Time Series](#anomaly-detection-for-high-frequency-time-series)
+- [Examples](#examples)
 - [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
+- [Citing](#citing)
+- [Other Useful Resources](#other-useful-resources)
+- [Blogs](#blogs)
 - [Development Team](#development-team)
 
 
